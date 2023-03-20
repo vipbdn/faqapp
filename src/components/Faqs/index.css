@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.app-container {
+  background-color: #e4e7eb;
+  height: 100vh;
+  padding: 10px;
+}
+
+.main-container {
+  background-color: #ffffff;
+  width: 90%;
+  margin: auto;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 25px;
+}
+
+.heading {
+  color: #cb8805;
+  padding: 10px;
+  font-family: 'Roboto';
+}
+
+.ul-container {
+  list-style: none;
+}
